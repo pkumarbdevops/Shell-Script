@@ -10,4 +10,4 @@ PERSON=("Ramesh" "Suresh" "Sachin")
 
 # @ means all the persons in the array 
 
-echo "First Person : ${PERSON[@]}" 
+echo "All Persons : ${PERSON[@]}" 
