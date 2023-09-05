@@ -7,4 +7,4 @@ NUMBER=$2 # passing the values from the command line
 # I need to runa command inside shell to add these 2 number
 SUM=$((NUMBER1+NUMBER2))
 
-echo "addition of 2 number is :$SUM"
+echo "addition of 2 number is: $SUM"
