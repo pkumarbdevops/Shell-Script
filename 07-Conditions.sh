@@ -9,4 +9,4 @@ then
     echo "$NUMBER IS GREATER THAN 10"
     else
     echo "$NUMBER IS NOT GREATER THAN 10"
-fi
+Fi
