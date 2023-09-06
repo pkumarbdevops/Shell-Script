@@ -21,3 +21,12 @@ then
     exit 1
     echo "Installation of MYSQL is Success"
 fi
+
+yum install postfix -y
+
+if [ $? -ne 0 ]
+then
+    echo "Installation of Postfix is Error"
+    exit 1
+    echo "Installation of Postfix is Success"
+fi
